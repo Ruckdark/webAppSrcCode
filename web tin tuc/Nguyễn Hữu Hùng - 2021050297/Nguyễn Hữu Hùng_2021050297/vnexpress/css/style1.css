@@ -1,0 +1,129 @@
+a {
+    text-decoration: none;
+  }
+  
+  .tt {
+    padding: 20px;
+  }
+  
+  .content {
+    height: auto;
+    width: 80%;
+    margin: 90px 0px 0px 0px;
+    padding: 0px;
+    background-color: #F7F7F7;
+    position: absolute;
+    margin: auto;
+    top: 120px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  
+  }
+  
+  .content a:hover {
+    color: #1e7c9b;
+  }
+  
+  .time-now {
+    font-size: 14px;
+    line-height: 32px;
+    color: #757575;
+    position: relative;
+    margin-left: 20px;
+    padding-left: 15px;
+    float: left;
+    margin: 10px 0px 0px 0px;
+  }
+  
+  .time-now::before {
+    content: "";
+    width: 2px;
+    height: 30px;
+    background: #e5e5e5;
+    position: absolute;
+    left: 0;
+    top: 2px;
+  }
+  
+  .button-not-hover {
+    font-weight: bold;
+    border: none;
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+.button-1{
+    height: 30px;
+    line-height: 20px;
+    padding: 0 10px;
+    border: 0px solid #e5e5e5;
+    border-radius: 0px;
+    font-size: 16px;
+    color: #757575;
+    display: inline-block;
+}
+  .btn {
+    height: 30px;
+    line-height: 20px;
+    padding: 0 10px;
+    border: px solid #e5e5e5;
+    border-radius: 0px;
+    font-size: 16px;
+    color: #757575;
+    display: inline-block;
+  }
+  /* .btn:hover {
+    background-color: #73ff00;
+  } */
+  
+  /*Css menu */
+  #navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+    background-color: white;
+  }
+
+  
+  #navbar a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  #navbar-right {
+    float: right;
+  }
+  
+  li {
+    list-style: none;
+  }  
+  a {
+    text-decoration-line: none;
+  
+  }
+  ul li {
+    padding: 7px;
+  }
+  .item-type{
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0px;
+  padding-left: 0px;
+  }
+  .fa-minsize-icon{
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: table;
+}
+

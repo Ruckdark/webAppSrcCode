@@ -1,0 +1,76 @@
+Đề tài
+TÊN ĐỀ TÀI :CỬA HÀNG BÁN QUẦN ÁO ONLINE
+TÊN NHÓM:NHÓM Ế 
+THÀNH VIÊN :Nhóm trưởng :LÊ MINH PHƯƠNG
+            THÀNH VIÊN  :NGUYỄN THU YẾN
+                        :NGÔ THỊ ÁNH TUYẾT 
+                        :NGUYỄN THẢO NGUYÊN
+                        :TRẦN HỒNG VÂN
+NGÔN NGỮ SỬ DỤNG:HTML,CSS,JS,MYSQL,PHP 
+THƯ VIỆN :JQUERY 
+Nhiệm vụ
+LÊ MINH PHƯƠNG :Chia file,sửa lỗi, làm trang chủ,cửa hàng,tài khoản
+đăng nhập,đăng kí,quên mật khẩu,chi tiết sản phẩm,giỏ hàng,liên hệ
+thanh toán,đổi mật khẩu,xóa tài khoản ,đăng xuất,trang chủ admin,
+trang quản trị css ,thêm sửa trang mạng xã hội,tạo toàn bộ hệ quản trị cơ sở dữ liệu 
+trang đăng nhập admin,đăng xuất admin,javascript,JQUERY,deploy trang web,
+thiết kế sơ bộ trang website
+NGUYỄN THU YẾN:Xem,thêm,sửa xóa quản trị viên 
+               Xem,thêm,sửa xóa khối 
+               Xem,thêm,sửa xóa trình chiếu
+               Thuyết trình 
+               Tạo logo
+NGÔ THỊ ÁNH TUYẾT :Xem,thêm,sửa xóa danh mục
+                  :Xem,thêm,sửa xóa thể loại 
+                  :Xem,thêm,sửa xóa sản phẩm
+                  :Tìm ảnh,giá,tên sản phẩm 
+NGUYỄN THẢO NGUYÊN:Xem,xóa đơn đặt hàng
+                  :Xem,xóa đơn thanh toán
+                  :Xem,xóa người dùng
+                  :Xem,xóa đơn phản hồi 
+TRẦN HỒNG VÂN:Xem,xóa trang mạng xã hội 
+2.WEB SITE :
+LINK:https://nhom-e.000webhostapp.com/
+Tài khoản admin:admin@gmail.com    (quyền hạn 1)
+mật khẩu :admin
+-NGƯỜI DÙNG
+    -Đăng nhập ,đăng xuất ,quên mật khẩu,trả về mật khẩu ngẫu nhiên đăng kí bằng email,đổi mật khẩu ,xóa tài khoản 
+    -Thanh toán offline bằng BIDV 
+    -Tìm kiếm dự trên từ khoá
+    -Trang chủ :
+    -Trang cửa hàng 
+    -Trang tài khoản 
+    -Trang đăng nhập 
+    -Trang đăng kí 
+    -Trang quên mật khẩu
+    -Trang chi tiết sản phẩm
+    -Trang giỏ hàng
+    -Trang liên hệ 
+    -Trang điều khoản 
+-Người dùng sau khi đăng nhập
+    -Giao diện sẽ thanh đổi thêm tên người dùng,thay chữ đăng nhập thành đăng xuất
+    -Trang thanh toán
+    -Trang thanh toán off 
+    -Trang đổi mật khẩu 
+    -Trang xóa tài khoản
+    -Trang đăng xuất khi người dùng ấn đăng xuất sẽ thoát ra ngoài 
+-Quản trị viên
+
+    -Trang chủ 
+    -Quản lý sản phẩm 
+    -Quản lý danh mục 
+    -Quản lý thể loại 
+    -Quản lý trình chiếu 
+    -Quản lý đơn đặt hàng 
+    -Quản lý thanh toán 
+    -Quản lý CSS 
+    -Quản lý người dùng 
+    -Quản lý quản trị viên
+    -Quản lý phản hồi
+    -Quản lý khối 
+    -Đăng xuất trang quản lý 
+    -Đăng nhập trang quản trị viên
+-Cuối cùng em xin cảm ơn thầy cô và các bạn đã lắng nghe bài bảo vệ của nhóm 6 
+do sức khỏe có hạn nên nhóm chúng em làm chưa được tốt vẫn còn sơ sài mong thầy và các bạn góp ý ạ.
+
+EM XIN HẾT
